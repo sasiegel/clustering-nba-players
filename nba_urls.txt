@@ -1,0 +1,12 @@
+https://stats.nba.com/players/bio/
+https://stats.nba.com/players/traditional/ /html/body/main/div[2]/div/div[2]/div/div/div[1]/div[3]/div/div/label/select/option[1]
+https://stats.nba.com/players/shooting/ /html/body/main/div[2]/div/div[2]/div/div/div[1]/div[4]/div/div/label/select/option[2] /html/body/main/div[2]/div/div[2]/div/div/div[1]/div[3]/div/div/label/select/option[1]
+https://stats.nba.com/players/box-outs/ /html/body/main/div[2]/div/div[2]/div/div/div[1]/div[3]/div/div/label/select/option[1]
+https://stats.nba.com/players/isolation/
+https://stats.nba.com/players/ball-handler/
+https://stats.nba.com/players/roll-man/
+https://stats.nba.com/players/playtype-post-up/
+https://stats.nba.com/players/speed-distance/ /html/body/main/div[2]/div/div[2]/div/div/div[1]/div[3]/div/div/label/select/option[1]
+https://stats.nba.com/players/defense-dash-overall/ /html/body/main/div[2]/div/div[2]/div/div/div[1]/div[3]/div/div/label/select/option[1]
+https://stats.nba.com/players/drives/ /html/body/main/div[2]/div/div[2]/div/div/div[1]/div[3]/div/div/label/select/option[1]
+https://stats.nba.com/players/touches/ /html/body/main/div[2]/div/div[2]/div/div/div[1]/div[3]/div/div/label/select/option[1]

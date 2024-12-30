@@ -17,24 +17,6 @@ This analysis is a simple look into the roles of NBA players. It can be used and
 
 None
 
-## Release History
-
-* 0.1.0
-    * The first proper release
-
-## Meta
-
-Scott Siegel – [@scootsiegel](https://twitter.com/scootsiegel) 
-
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [My Github](https://github.com/scootsiegel/)
-
-## TODO
-- [ ] Finish Appendix A (PCA) with further explanation, 3D plot, and conclusion.
-- [ ] Do an Appendix B that explores weighting the features and comparing results.
-- [ ] Add an Appendix C that uses DBScan (or another clustering alg) and compares results.
-- [ ] Make the plots more robust so the groups of players is similar between plots. Currently it changes every time.
-- [ ] Make the get_nba_data.py file robust to headers so it can be written to pull all data as an independent program.
-- [ ] Once get_nba_data.py runs without error then make sure the entire pipeline runs without error.
-

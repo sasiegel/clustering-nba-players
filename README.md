@@ -18,5 +18,3 @@ This analysis is a simple look into the roles of NBA players. It can be used and
 None
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
-
-[My Github](https://github.com/scootsiegel/)
